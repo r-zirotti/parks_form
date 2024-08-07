@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman';
+    background-image: url(Lake.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgb(7, 31, 109);
+}
+input{
+    width: fit-content;
+}
+.form{
+    height:fit-content;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 2%;
+    margin-right:2%;
+    border-radius: 2px;
+    border: 20px;
+    padding: 5px;
+    background-color: rgb(169, 181, 192);
+    border-color: aquamarine;
+}
+label{
+    font-size: 12px;
+}
+h1{
+    border-radius: 10px;
+    padding:12px;
+    font-size: medium;
+    color: rgba(231, 213, 109, 0.788);
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: rgba(39, 43, 102, 0.938);
+    display: flex;
+    justify-content: center;
+}
+.parks{
+    
+    color: rgb(86, 172, 15);
+    margin: 5px;
+    border-width: 5%,5%,5%,5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10%;
+    border-inline-color: rgb(19, 18, 18);
+    
+}
+.buttons{
+    border-radius: 20%;
+    display: flex;
+    justify-content:center;
+    margin-right: 10%;
+    flex-wrap: wrap;
+    align-items: center;
+}
