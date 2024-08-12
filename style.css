@@ -7,9 +7,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-color: rgb(7, 31, 109);
-}
-input{
-    width: fit-content;
+
 }
 .form{
     background-color: aliceblue;
